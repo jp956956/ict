@@ -6,8 +6,8 @@
 
 ### github 指令
 
-*git remote add - 增加遠端節點
-*git push xxxx master - 推送到 github
+- git remote add - 增加遠端節點
+- git push xxxx master - 推送到 github
 
 ```javascript
 let a = 0;
